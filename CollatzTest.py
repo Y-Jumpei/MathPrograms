@@ -15,5 +15,6 @@ while Num != 1:
         print Num
     else:
         print Num,
-
 print '\nCount = {}'.format(Count)
+
+

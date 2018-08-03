@@ -6,3 +6,6 @@ for i in range(2,Num):
         break
 else:
     print '{} is Prime Number.'.format(Num)
+
+
+
